@@ -2,10 +2,10 @@
 
 int main()
 {
-    int max = 10; // La posición que queremos obtener
+    int max = 31; // La posición que queremos obtener
 
-    int output = 0; // Inicializamos la variable con valor 0 ya que es la semilla de Fibonacci
-    int latest = 1; // Inicializamos la variable con valor 1 ya que es la semilla de Fibonacci
+    double output = 0; // Inicializamos la variable con valor 0 ya que es la semilla de Fibonacci
+    double latest = 1; // Inicializamos la variable con valor 1 ya que es la semilla de Fibonacci
 
 	for(int i = 0; i < max; i++) // Condicion para el loop
 	{
